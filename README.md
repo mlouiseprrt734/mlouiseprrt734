@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mlouiseprrt734
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning C#, PHP, Javascript
+- 👀 I’m interested in development and data science
+- 🌱 I’m currently learning C#, ASP and Machine Learning
 - 💞️ I’m looking to collaborate on translation projects
 - 📫 How to reach me : marielouiseporret@gmail.com
 - 😄 Pronouns: she/her
